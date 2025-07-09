@@ -51,21 +51,21 @@ Audio:        ASR | VAD | WebRTC | TTS
 ## 🚀 Personal Projects
 
 ### [Qoze - AI 工具](https://68d30a9594728bc39aa24be94b319d21.nebulab.app)
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
-  <div style="text-align: center; width: 15%;">
-    <img src="android.jpeg" alt="Android" style="width: 100%; height: auto;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; flex-wrap: nowrap;">
+  <div style="text-align: center; width: 22%; min-width: 0;">
+    <img src="android.jpeg" alt="Android" style="width: 100%; height: auto; max-width: 150px;">
     <div style="margin-top: 8px; font-size: 14px;">Android</div>
   </div>
-  <div style="text-align: center; width: 15%;">
-    <img src="iphone15promax.png" alt="iPhone" style="width: 100%; height: auto;">
+  <div style="text-align: center; width: 22%; min-width: 0;">
+    <img src="iphone15promax.png" alt="iPhone" style="width: 100%; height: auto; max-width: 150px;">
     <div style="margin-top: 8px; font-size: 14px;">iPhone</div>
   </div>
-  <div style="text-align: center; width: 23%;">
-    <img src="macos_desktop.png" alt="macOS" style="width: 100%; height: auto;">
+  <div style="text-align: center; width: 26%; min-width: 0;">
+    <img src="macos_desktop.png" alt="macOS" style="width: 100%; height: auto; max-width: 200px;">
     <div style="margin-top: 8px; font-size: 14px;">macOS</div>
   </div>
-  <div style="text-align: center; width: 23%;">
-    <img src="windows.jpeg" alt="Windows" style="width: 100%; height: auto;">
+  <div style="text-align: center; width: 26%; min-width: 0;">
+    <img src="windows.jpeg" alt="Windows" style="width: 100%; height: auto; max-width: 200px;">
     <div style="margin-top: 8px; font-size: 14px;">Windows</div>
   </div>
 </div>
