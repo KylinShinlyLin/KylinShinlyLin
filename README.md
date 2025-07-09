@@ -51,25 +51,11 @@ Audio:        ASR | VAD | WebRTC | TTS
 ## 🚀 Personal Projects
 
 ### [Qoze - AI 工具](https://68d30a9594728bc39aa24be94b319d21.nebulab.app)
-<div style="display: flex; justify-content: space-around; align-items: flex-start; gap: 5px; flex-wrap: nowrap; max-width: 600px; margin: 0 auto;">
-  <div style="text-align: center; width: 3%; min-width: 0;">
-    <img src="android.jpeg" alt="Android" style="width: 100%; height: auto; max-width: 100px;">
-    <div style="margin-top: 5px; font-size: 12px;">Android</div>
-  </div>
-  <div style="text-align: center; width: 3%; min-width: 0;">
-    <img src="iphone15promax.png" alt="iPhone" style="width: 100%; height: auto; max-width: 100px;">
-    <div style="margin-top: 5px; font-size: 12px;">iPhone</div>
-  </div>
-  <div style="text-align: center; width: 3%; min-width: 0;">
-    <img src="macos_desktop.png" alt="macOS" style="width: 100%; height: auto; max-width: 140px;">
-    <div style="margin-top: 5px; font-size: 12px;">macOS</div>
-  </div>
-  <div style="text-align: center; width: 3%; min-width: 0;">
-    <img src="windows.jpeg" alt="Windows" style="width: 100%; height: auto; max-width: 140px;">
-    <div style="margin-top: 5px; font-size: 12px;">Windows</div>
-  </div>
-</div>
+- flutter + 安卓原生开发的 AI工具
 
+<div style="text-align: center; margin: 20px 0;">
+  <img src="screenshot-20250709-144925.png" alt="Prism" style="width: 90%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
 
 
 
