@@ -1,11 +1,15 @@
 # 👋 Hi, I'm Nanman Kylin
 
 ## 🚀 About Me
-![self.png](self.png)
-- 资深服务端工程师 & AI应用工程师
-- 拥有中大型海外社交产品研发经验 (tiya, buz 等)
+<div style="text-align: center; margin: 20px 0;">
+  <img src="self.png" alt="About Me" style="width: 50%; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</div>
+
+- 资深服务端工程师 & AI应用工程师 & 创新产品原型开发工程师
+- 拥有中大型海外社交/AI工具 产品研发经验 (tiya, buz , owll , deeptran 等等)
 - 目前就职于纳斯达克上市公司 **SoundGroup**
 - 热爱开源项目，致力于技术创新
+
 
 ## 💼 Professional Experience
 
@@ -17,16 +21,16 @@
 - 有丰富的 DevOps 开发经验
 
 ### 🤖 AI Development Expertise
+- 开发过全球推广的 ChatBot 产品 并支持13种以上语言的语音交互
 - 能独立开发通用性 AI Agent 产品原型
-- 在 ASR | VAD 等音频处理方面有丰富经验
-- 至今参与 **12+** 个 AI 产品落地项目
+- 在 ASR | VAD | 转录字错纠正 等音频处理方面有丰富经验
+- 至今参与超 **12+** 个 AI 产品落地项目
 - 开发过 WebRTC 方向的 chatbot 产品
 - 熟悉 OpenAI | Bedrock | Azure | GCP(Vertex-AI) 等厂商AI能力
 - 有 RAG | Embedding 在产品中落地的研发经验
 - 熟悉 Coze | Dify 等AI应用开发平台
 - 设计过 AI Agent 使用的沙盒虚拟机容器
-- 熟悉 TTS ssml，在 TTS上也有丰富的项目经验 
-- 开发过支持 13种语言 以上的 chatbot 产品
+- 熟悉 TTS SSML，在 TTS上也有丰富的项目经验
 
 ## 🌱 Currently Learning
 
