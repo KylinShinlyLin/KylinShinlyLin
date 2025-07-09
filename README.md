@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nanman Kylin
 
 ## 🚀 About Me
-
+![self.png](self.png)
 - 资深服务端工程师 & AI应用工程师
 - 拥有中大型海外社交产品研发经验 (tiya, buz 等)
 - 目前就职于纳斯达克上市公司 **SoundGroup**
@@ -44,13 +44,39 @@ DevOps:       Kubernetes | Docker | Cloud Run
 Audio:        ASR | VAD | WebRTC | TTS
 ```
 
-## 📫 How to reach me
+## 🚀 Personal Projects
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [你的LinkedIn]
+### [Qoze - AI 工具](https://68d30a9594728bc39aa24be94b319d21.nebulab.app)
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+  <div style="text-align: center; width: 15%;">
+    <img src="android.jpeg" alt="Android" style="width: 100%; height: auto;">
+    <div style="margin-top: 8px; font-size: 14px;">Android</div>
+  </div>
+  <div style="text-align: center; width: 15%;">
+    <img src="iphone15promax.png" alt="iPhone" style="width: 100%; height: auto;">
+    <div style="margin-top: 8px; font-size: 14px;">iPhone</div>
+  </div>
+  <div style="text-align: center; width: 23%;">
+    <img src="macos_desktop.png" alt="macOS" style="width: 100%; height: auto;">
+    <div style="margin-top: 8px; font-size: 14px;">macOS</div>
+  </div>
+  <div style="text-align: center; width: 23%;">
+    <img src="windows.jpeg" alt="Windows" style="width: 100%; height: auto;">
+    <div style="margin-top: 8px; font-size: 14px;">Windows</div>
+  </div>
+</div>
 
----
 
-**"Building the future with AI and Cloud-Native Technologies"**
 
-![self.png](self.png)
+### [Prism - 通用AI Agent原型](https://prism-f2e36.web.app/)
+- 自主开发的通用AI Agent产品原型
+<div style="text-align: center; margin: 20px 0;">
+  <img src="2131752034572_.pic.jpg" alt="Prism" style="width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
+
+
+### [TimerSpace - 工作提效工具](https://timerspace.com/)
+- 基于Flutter开发的工作效率提升产品
+<div style="text-align: center; margin: 20px 0;">
+  <img src="screenshot-20250709-143144.png" alt="TimerSpace" style="width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+</div>
