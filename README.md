@@ -46,7 +46,7 @@ Audio:        ASR | VAD | WebRTC | TTS
 
 ## 🚀 Personal Projects
 
-### [QozeCode 全能命令行AI Agent]([https://68d30a9594728bc39aa24be94b319d21.nebulab.app](https://github.com/KylinShinlyLin/QozeCode))
+### [QozeCode 终端 AI Agent](https://github.com/KylinShinlyLin/QozeCode)
 
 - 提高研发效率和帮你管理电脑的 AI agent
 
