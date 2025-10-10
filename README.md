@@ -70,7 +70,7 @@ Audio:        ASR | VAD | WebRTC | TTS
   <img src="2131752034572_.pic.jpg" alt="Prism" style="width: 80%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
-### [TimerSpace - 工作提效工具](https://timerspace.com/)
+### [TimerSpace - 专注类 提效工具](https://timerspace.com/)
 
 - 基于Flutter开发的工作效率提升产品
 
