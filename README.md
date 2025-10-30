@@ -7,7 +7,7 @@
 </div>
 
 - 资深服务端工程师 & AI应用工程师 & 创新产品原型开发工程师
-- 拥有中大型海外社交/AI工具 产品研发经验 (tiya, buz , owll , deeptran, PrivateNote,PlantAI 等等)
+- 拥有中大型海外社交/AI工具 产品研发经验
 - 目前就职于纳斯达克上市公司 **SoundGroup**
 - 热爱开源项目，致力于技术创新
 
