@@ -56,9 +56,8 @@ AI & RTC:       LLM (OpenAI / Bedrock / Vertex) | RAG | Agent | ASR | TTS | WebR
   <img src="audio.gif" alt="Prism" style="width: 90%; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
 </div>
 
-### [Qoze]
+### Qoze 跨平台AI 工具
 
-- 多平台AI 工具
 
 <div style="display: flex; justify-content: center; align-items: center; margin: 20px 0; gap: 20px;">
   <img src="qoze.gif" alt="Qoze Mobile" style="height: 380px; width: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
